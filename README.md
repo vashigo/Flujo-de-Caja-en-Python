@@ -21,17 +21,7 @@ Numpy
 
 ### Instalando
 
-1. descargue el repositorio y solamente deje ConcentreseGAME.py, fondo.JPG y prueba.db en el mismo directorio de trabajo, ejecute el .py y ya
-
-
-## Autor
-
-* **ANDRES DAVID VASQUEZ IBAÑEZ** - *Initial work* - [VASHIGO](https://github.com/vashigo)
-
-
-## Licencia
-
-This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details
+1. descargue el repositorio y solamente deje proyecto.py, fondo.JPG y prueba.db en el mismo directorio de trabajo, ejecute el .py y ya
 
 ## Demostración
 ![captura de pantalla 12](https://user-images.githubusercontent.com/26507566/50524426-95c25a00-0aa3-11e9-8961-f1b25e013558.png)
@@ -44,3 +34,12 @@ Recuerde la contraseña es "sppc" para iniciar
 el flujo de caja se genera segun las cuentas introducidas y como solo se ingreso 1 se muestra esa, esta la funcion de cerrar caja, el programa le dira si cerro o no la caja con la diferencia
 ```
 ![captura de pantalla 15](https://user-images.githubusercontent.com/26507566/50524429-95c25a00-0aa3-11e9-8b21-e3bdcb63592f.png)
+
+## Autor
+
+* **ANDRES DAVID VASQUEZ IBAÑEZ** - *Initial work* - [VASHIGO](https://github.com/vashigo)
+
+
+## Licencia
+
+This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details
