@@ -7,7 +7,7 @@ from tkinter import messagebox #lib messagebox de tkinter
 import numpy as np #numpy
 import webbrowser #lib para manejar el link
 
-Ubicacion_bd = "C:\\Users\\Usuario\\Desktop\\ProyectoFlujoCaja\\prueba.db" #variable de la ruta de base de datos
+Ubicacion_bd = Os.getcwd()+"\prueba.db" #variable de la ruta de base de datos
 #variables de control de ventanas de tkinter para abrir y cerrarlas libremente
 ventana=0
 ventana_Act = 0
